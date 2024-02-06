@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h1 align="center">Hi 👋, I'm DeBug758</h1>
 <h3 align="center">Beginning DevOps</h3>
+
+- ⚡ BSc in System application software, **ITMO**
+
+- 🌱 BSc in Applied Mathematics and Informatics, **MSU**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
